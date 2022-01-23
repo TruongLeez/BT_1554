@@ -1,0 +1,29 @@
+.heading{
+	text-decoration: underline;
+	font-family: arial;
+	font-size: x-large;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.general{
+	font-style: italic;
+	text-align: justify;
+}
+
+.places{
+	text-decoration: underline;
+	font-family:cursive ;
+	font-size: medium;
+	text-transform: capitalize;
+}
+
+.tab1{
+	margin-left: 5%;
+	text-align: justify;
+}
+
+* p{
+	font-size: small;
+	font-family: verdana;
+}
